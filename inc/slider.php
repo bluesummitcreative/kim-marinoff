@@ -1,7 +1,7 @@
 <section data-min-height="500px" data-height="29.84%" class="swiper-container swiper-slider">
     <div class="swiper-wrapper">
 		<!--Start repeater here -->
-      <div class="swiper-slide" data-slide-bg="/wp-content/themes/kim-marinoff/images/1920x900.jpg">
+      <div class="swiper-slide" data-slide-bg="/wp-content/themes/kim-marinoff/images/home-slide-1.jpg">
         <div class="swiper-slide-caption">
           <section class="section-70">
             <div class="shell text-center text-md-left">
