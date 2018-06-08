@@ -5,7 +5,7 @@
         <div class="swiper-slide-caption">
           <section class="section-70">
             <div class="shell text-center text-md-left">
-              <h1 class="swiper-slide-title">Helping Others Find the Perfect Franchise</h1>
+              <h1 class="swiper-slide-title">Find the Perfect Franchise</h1>
               <div class="group group-md"> <a class="button button-sm button-primary-filled veil reveal-sm-inline-block" href="#">Learn More</a> <a class="button button-sm button-default" href="#">Our Services</a> </div>
             </div>
           </section>
