@@ -1,4 +1,4 @@
-<div class="cell-md-4 cell-lg-3">
+<div class="sidebar cell-md-4 cell-lg-3">
 	<div class="inset-md-left-15 inset-md-right-10">
 		<div class="widget">
 			<h3>Contact Kim</h3>
