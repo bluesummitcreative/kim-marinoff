@@ -3,7 +3,7 @@
       <div class="shell text-left">
         <div class="range range-xs-center range-50">
           <div class="cell-sm-6 cell-lg-3 text-center text-sm-left">
-            <div class="brand"> <a href="index.html"> <img class="img-responsive" src="images/logo-dark-158x37.png" alt="" width="158" height="37"> </a> </div>
+            <div class="brand"> <a href="index.html"> <img class="img-responsive" src="/wp-content/themes/kim-marinoff/images/logo-dark-158x37.png" alt="" width="158" height="37"> </a> </div>
             <p>Welcome to the leading company delivering services that combine quality, reliability and compliance!</p>
             <div class="group group-xl"> <span class="small text-italic">Follow Us:</span>
               <ul class="inline-list">
