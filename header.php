@@ -4,8 +4,7 @@
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta charset="utf-8">
-<link rel="stylesheet" type="text/css" href="css/css.css?family=Roboto:100,300,400,500,700,900,300italic">
-<link rel="stylesheet" href="css/style.css">
+<?php wp_head(); ?>
 </head>
 <body>
 <div class="page">
