@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="" lang="en">
+<html class="wide wow-animation" lang="en">
 <head>
 <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
