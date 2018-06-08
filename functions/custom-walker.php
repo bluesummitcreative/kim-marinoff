@@ -4,7 +4,7 @@
     function start_lvl( &$output, $depth ){ // ul
         $indent = str_repeat("\t",$depth); // indents the outputted HTML
         $submenu = ($depth > 0) ? ' sub-menu' : '';
-        $output .= "\n$indent<ul class=\"dropdown-menu$submenu depth_$depth\">\n";
+        $output .= "\n$indent<ul class=\"rd-navbar-dropdown\">\n";
     }
   
   function start_el( &$output, $item, $depth = 0, $args = array(), $id = 0 ){ // li a span
@@ -21,7 +21,7 @@
         $classes[] = 'nav-item';
         $classes[] = 'nav-item-' . $item->ID;
         if( $depth && $args->walker->has_children ){
-            $classes[] = 'rd-navbar-dropdown';
+            $classes[] = '';
         }
         
         $class_names =  join(' ', apply_filters('nav_menu_css_class', array_filter( $classes ), $item, $args ) );
