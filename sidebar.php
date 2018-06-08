@@ -1,14 +1,12 @@
 <div class="cell-md-4 cell-lg-3">
 	<div class="inset-md-left-15 inset-md-right-10">
-		<h3>Contact Kim</h3>
-		<p>4529 Castle Lane<br />Broomfield, CO 80023</p>
-		<p><a href="tel:+17208494934">(720) 849-4934</a></p>
-		<p><a href="mailto:info@kimmarinoff.com">info@kimmarinoff.com</a></p>
-	</div>
-
-	<div class="inset-md-left-15 inset-md-right-10">
-	  <div class="range range-50">
-		<div class="cell-sm-6 cell-md-12">
+		<div class="widget">
+			<h3>Contact Kim</h3>
+			<p>4529 Castle Lane<br />Broomfield, CO 80023</p>
+			<p><a href="tel:+17208494934">(720) 849-4934</a></p>
+			<p><a href="mailto:info@kimmarinoff.com">info@kimmarinoff.com</a></p>
+		</div>
+		<div class="widget">
 		  <h4 class="text-bold">Categories</h4>
 		  <ul class="marked-list-bordered">
 			<li> <a href="#">Finance</a> </li>
@@ -19,7 +17,7 @@
 			<li> <a href="#">Business plans</a> </li>
 		  </ul>
 		</div>
-		<div class="cell-sm-6 cell-md-12 text-left">
+		<div class="widget">
 		  <h4 class="text-bold">Recent Posts</h4>
 		  <article class="post-preview">
 			<div class="unit unit-horizontal unit-spacing-sm">
@@ -67,15 +65,11 @@
 			</div>
 		  </article>
 		</div>
-		<div class="cell-sm-6 cell-md-12">
+		<div class="widget">
 		  <div class="banner">
 			<h4 class="banner-title">Do You Need Help?</h4>
 			<p class="banner-desc">Contact us at the FinExpert office nearest to you or submit a business inquiry online.</p>
 			<a href="contacts.html" class="button button-sm banner-button">Contact Us</a> </div>
-		</div>
-		<div class="cell-sm-6 cell-md-12">
-		  <h4 class="text-bold">Tags</h4>
-		  <div class="tags-cloud group"> <a href="#">Advisors</a> <a href="#">Benchmarks</a> <a href="#">Millennials</a> <a href="#">Online Services</a> <a href="#">Personal Finance</a> <a href="#">Inventors</a> </div>
 		</div>
 	  </div>
 	</div>
