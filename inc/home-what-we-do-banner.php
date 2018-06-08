@@ -1,4 +1,4 @@
-<section class="section section-md bg-image bg-primary bg-fixed" style="background-image: url(images/bg-02-1920x1200.jpg)">
+<section class="section section-md bg-image bg-primary bg-fixed" style="background-image: url(/wp-content/themes/kim-marinoff/images/bg-02-1920x1200.jpg)">
     <div class="shell text-center text-lg-left">
       <h2 class="reveal-inline-block text-middle">What We Do</h2>
       <hr class="divider divider-vertical bg-white text-middle veil reveal-lg-inline-block">
