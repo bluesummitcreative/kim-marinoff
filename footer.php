@@ -62,7 +62,6 @@
   </footer>
 </div>
 <div id="form-output-global" class="snackbars"></div>
-<script src="js/core.min.js"></script> 
-<script src="js/script.js"></script>
+<?php wp_footer(); ?>
 </body>
 </html>
