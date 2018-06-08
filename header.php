@@ -13,7 +13,7 @@
       <div class="rd-navbar-inner">
         <div class="rd-navbar-panel">
           <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"> <span></span> </button>
-          <div class="brand rd-navbar-brand"> <a href="index.html"> <img class="img-responsive" src="images/logo-light-158x37.png" alt="" width="158" height="37"> </a> </div>
+          <div class="brand rd-navbar-brand"> <a href="index.html"> <img class="img-responsive" src="/wp-content/themes/kim-marinoff/images/logo-light-158x37.png" alt="" width="158" height="37"> </a> </div>
           <div class="rd-navbar-aside">
           	<div class="header_socials unit unit-horizontal "> <a target="_blank" href="#"><i class="fa fa-facebook"></i></a> <a target="_blank" href="#"><i class="fa fa-twitter"></i></a> <a target="_blank" href="#"><i class="fa fa-youtube"></i></a> </div>
             
