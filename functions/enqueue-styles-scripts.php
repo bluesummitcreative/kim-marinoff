@@ -4,7 +4,7 @@
 		wp_enqueue_style( 'css.css', get_template_directory_uri() . '/css/css.css'); // CSS
 		
 		wp_enqueue_script ('jquery'); 
-		wp_enqueue_script( 'core', get_template_directory_uri() . '/js/core.js', $deps, $ver, true);
+		wp_enqueue_script( 'core.min', get_template_directory_uri() . '/js/core.min.js', $deps, $ver, true);
 		wp_enqueue_script( 'script', get_template_directory_uri() . '/js/script.js', $deps, $ver, true);
   
   } 
