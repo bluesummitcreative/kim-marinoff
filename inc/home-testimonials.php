@@ -6,7 +6,7 @@
         <div data-items="1" data-sm-items="2" data-md-items="3" data-margin="29" data-dots-custom=".owl-custom-pagination" data-nav="true" data-dots="false" data-loop="false" data-dots-each="1" class="owl-carousel">
           <div>
             <div class="quote-variant-1">
-              <div class="quote-header"> <img src="images/72x72.jpg" alt="" width="72" height="72"> </div>
+              <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
               <div class="quote-body">
                 <p> <q>Hi, guys! You've solved my problem in no time! Your efficient services and customer care are second to none!</q> </p>
               </div>
@@ -17,7 +17,7 @@
           </div>
           <div>
             <div class="quote-variant-1">
-              <div class="quote-header"> <img src="images/72x72.jpg" alt="" width="72" height="72"> </div>
+              <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
               <div class="quote-body">
                 <p> <q>Wow, I'm so happy with your service. You managed to exceed my expectatio</q> </p>
               </div>
@@ -28,7 +28,7 @@
           </div>
           <div>
             <div class="quote-variant-1">
-              <div class="quote-header"> <img src="images/72x72.jpg" alt="" width="72" height="72"> </div>
+              <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
               <div class="quote-body">
                 <p> <q>Great organization!! Your prompt answer became a pleasant surprise for me.You've rendered an invaluable service! Thank you!</q> </p>
               </div>
@@ -39,7 +39,7 @@
           </div>
           <div>
             <div class="quote-variant-1">
-              <div class="quote-header"> <img src="images/72x72.jpg" alt="" width="72" height="72"> </div>
+              <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
               <div class="quote-body">
                 <p> <q>Hi, guys! You've solved my problem in no time! Your efficient services and customer care are second to none!</q> </p>
               </div>
