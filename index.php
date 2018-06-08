@@ -1,0 +1,15 @@
+<?php get_header(); ?>
+<main class="page-content">
+    <?php get_template_part('inc/page-header'); ?>
+    <section class="section section-md bg-white">
+      <div class="shell">
+        <div class="range range-80">
+          <?php
+				get_template_part('inc/loop-blog');
+				get_sidebar(); 
+			?>
+        </div>
+      </div>
+    </section>
+  </main>
+<?php get_footer(); ?>
