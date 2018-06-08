@@ -17,25 +17,18 @@
             
           </div>
         </div>
-        <div class="rd-navbar-nav-wrap">
-          <ul class="rd-navbar-nav">
-            <li> <a href="index.html">Home</a> </li>
-            <li> <a href="about-us.html">About Us</a>
-              <ul class="rd-navbar-dropdown">
-                <li> <a href="careers.html">Careers</a> </li>
-                <li> <a href="our-team.html">Our team</a> </li>
-                <li> <a href="team-member-profile.html">Team member profile</a> </li>
-              </ul>
-            </li>
-            <li> <a href="our-services.html">Services</a> </li>
-            <li> <a href="blog.html">Blog</a>
-              <ul class="rd-navbar-dropdown">
-                <li> <a href="blog-post.html">Blog post</a> </li>
-              </ul>
-            </li>
-            <li> <a href="contacts.html">Contacts</a> </li>
-          </ul>
-        </div>
+	<?php
+		wp_nav_menu( array(
+		  'container'       => 'div',
+		  'container_class' => 'rd-navbar-nav-wrap',
+		  'container_id'    => 'navbarSupportedContent',
+		  'menu'            => 'Header Menu',
+		  'menu_class'      => 'rd-navbar-nav',
+		  'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
+		  'depth'           => 0,
+		  'walker'          => new bootstrap_4_walker_nav_menu()
+	   ) );
+	?>
       </div>
     </nav>
   </header>
