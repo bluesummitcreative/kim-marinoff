@@ -1,4 +1,4 @@
-<section class="section bg-primary section-md">
+<section class="section bg-primary section-md home-intro">
     <div class="shell">
       <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
         <?php the_title( '<h1>', '</h1>' ); ?>
