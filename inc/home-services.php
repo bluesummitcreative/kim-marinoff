@@ -4,14 +4,14 @@
         
         <div class="cell-sm-4">
           <div class="service text-center inset-lg-left-30 inset-lg-right-30">
-            <div class="icon-wrap"> <i class="fas fa-users"></i> </div>
+            <div class="icon-wrap"> <i class="fas fa-check"></i> </div>
             <h4> <a href="/services/">Franchise Brokering</a> </h4>
             <p>Our team of professional franchise consultants are working with quality candidates everyday exploring possible franchise opportunities.</p>
           </div>
         </div>
         <div class="cell-sm-4">
           <div class="service text-center inset-lg-left-30 inset-lg-right-30">
-            <div class="icon-wrap"> <i class="fas fa-handshake"></i> </div>
+            <div class="icon-wrap"> <i class="fas fa-users"></i> </div>
             <h4> <a href="/services/">Broker to Broker Marketing</a> </h4>
             <p>Our Broker to Broker marketing program re-introduces those efficiencies while we handle the large majority of the day-to-day tasks in dealing with large groups of brokers.</p>
           </div>
