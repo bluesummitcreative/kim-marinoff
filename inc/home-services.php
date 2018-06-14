@@ -4,7 +4,7 @@
         
         <div class="cell-sm-4">
           <div class="service text-center inset-lg-left-30 inset-lg-right-30">
-            <div class="icon-wrap"> <img src="/wp-content/themes/kim-marinoff/images/icon-coffe-45x45.png" alt="" class="img-responsive" width="45" height="45"> </div>
+            <div class="icon-wrap"> <i class="fas fa-users"></i> </div>
             <h4> <a href="/services/">Franchise Brokering</a> </h4>
             <p>Our team of professional franchise consultants are working with quality candidates everyday exploring possible franchise opportunities.</p>
           </div>
