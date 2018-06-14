@@ -2,9 +2,9 @@
     <div class="section section-md bg-bright-gray">
       <div class="shell text-left">
         <div class="range range-xs-center range-50">
-          <div class="cell-sm-6 cell-lg-3 text-center text-sm-left">
-            <div class="brand"> <a href="index.html"> <img class="img-responsive" src="/wp-content/themes/kim-marinoff/images/logo-dark-158x37.png" alt="" width="158" height="37"> </a> </div>
-            <p>Welcome to the leading company delivering services that combine quality, reliability and compliance!</p>
+          <div class="cell-sm-3">
+            <h4>Connect with Us</h4>
+            <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <div class="group group-xl"> <span class="small text-italic">Follow Us:</span>
               <ul class="inline-list">
                 <li> <a href="" class="icon icon-xxs icon-circle icon-dark icon-white-filled fa-facebook"></a> </li>
@@ -13,7 +13,7 @@
               </ul>
             </div>
           </div>
-          <div class="cell-sm-6 cell-lg-3">
+          <div class="cell-sm-3">
             <h4>Navigation</h4>
             <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <ul class="footer-navigation">
@@ -26,7 +26,7 @@
               <li> <a href="our-services.html">Services</a> </li>
             </ul>
           </div>
-          <div class="cell-sm-6 cell-lg-3">
+          <div class="cell-sm-3">
             <h4>Contact info</h4>
             <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <address class="contact-info">
@@ -41,7 +41,7 @@
             </ul>
             </address>
           </div>
-          <div class="cell-sm-6 cell-lg-3">
+          <div class="cell-sm-3">
             <h4>Subscribe</h4>
             <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <p>Get the latest updates and offers.</p>
