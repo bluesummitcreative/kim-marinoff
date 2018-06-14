@@ -2,7 +2,7 @@
     <div class="section section-md bg-bright-gray">
       <div class="shell text-left">
         <div class="range range-xs-center range-50">
-          <div class="cell-sm-3">
+          <div class="cell-sm-4">
             <h4>Connect with Us</h4>
             <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <div class="group group-xl"> <span class="small text-italic">Follow Us:</span>
@@ -13,20 +13,7 @@
               </ul>
             </div>
           </div>
-          <div class="cell-sm-3">
-            <h4>Navigation</h4>
-            <hr class="hr bg-shuttle-gray inset-lg-right-70">
-            <ul class="footer-navigation">
-              <li> <a href="about-us.html">About</a> </li>
-              <li> <a href="blog.html">Blog</a> </li>
-              <li> <a href="contacts.html">Contacts</a> </li>
-              <li class="active"> <a href="typography.html">Typography</a> </li>
-              <li> <a href="careers.html">Careers</a> </li>
-              <li> <a href="our-team.html">Our team</a> </li>
-              <li> <a href="our-services.html">Services</a> </li>
-            </ul>
-          </div>
-          <div class="cell-sm-3">
+          <div class="cell-sm-4">
             <h4>Contact info</h4>
             <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <address class="contact-info">
@@ -41,7 +28,7 @@
             </ul>
             </address>
           </div>
-          <div class="cell-sm-3">
+          <div class="cell-sm-4">
             <h4>Subscribe</h4>
             <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <p>Get the latest updates and offers.</p>
