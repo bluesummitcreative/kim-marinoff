@@ -21,10 +21,9 @@
               <li>
                 <div class="unit unit-horizontal unit-spacing-md">
                   <div class="unit-left"> <span class="icon icon-sm fa-phone text-picton-blue"></span> </div>
-                  <div class="unit-body"> <a href="callto:+1234567890">1900-09872</a> </div>
+                  <div class="unit-body"> <a href="tel:+17208494934">(720) 849-4934</a> </div>
                 </div>
               </li>
-              
             </ul>
             </address>
           </div>
@@ -32,7 +31,7 @@
             <h4>Subscribe</h4>
             <hr class="hr bg-shuttle-gray inset-lg-right-70">
             <p>Get the latest updates and offers.</p>
-            <form data-form-output="form-output-global" data-form-type="subscribe" method="post" action="" class="rd-mailform rd-mailform-inline">
+            <?php echo do_shortcode('[forminator_form id="41"]'); ?><form data-form-output="form-output-global" data-form-type="subscribe" method="post" action="" class="rd-mailform rd-mailform-inline">
               <div class="form-froup">
                 <label for="footer-contact-email" class="form-label">E-mail</label>
                 <input id="footer-contact-email" name="email" data-constraints="@Required @Email" class="form-input" type="email">
