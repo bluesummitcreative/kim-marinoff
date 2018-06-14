@@ -13,7 +13,7 @@
       <div class="rd-navbar-inner">
         <div class="rd-navbar-panel">
           <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"> <span></span> </button>
-          <div class="brand rd-navbar-brand"> <a href="<?php echo esc_url(home_url()); ?>"> <img class="img-responsive" src="/wp-content/uploads/logo-1.png" alt="" width="158" height="37"> </a> </div>
+          <div class="brand rd-navbar-brand"> <a href="<?php echo esc_url(home_url()); ?>"> <img class="img-responsive" src="/wp-content/uploads/A2B_1000_final.jpg" alt="logo"> </a> </div>
           <div class="rd-navbar-aside">
           	<div class="header_socials unit unit-horizontal "> <a target="_blank" href="#"><i class="fa fa-facebook"></i></a> <a target="_blank" href="#"><i class="fa fa-twitter"></i></a> <a target="_blank" href="#"><i class="fa fa-youtube"></i></a> </div>
             
