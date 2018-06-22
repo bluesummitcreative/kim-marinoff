@@ -75,17 +75,6 @@
 	<div class="quote-variant-1">
 	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
 	  <div class="quote-body">
-		<p> <q>I  recommend  Kim  for  anyone  looking  for  a  franchise  opportunity.</q> </p>
-	  </div>
-	  <div class="quote-meta"> <cite>Char Blackler</cite>
-	  </div>
-	</div>
-</div>
-
-<div>
-	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
-	  <div class="quote-body">
 		<p> <q>I  highly  recommend  Kim  to  anyone  looking  to  take  the  next  step  in  their  financial  future  with  business  ownership  -  whether  in  franchising  or  not.</q> </p>
 	  </div>
 	  <div class="quote-meta"> <cite>Dan  Durney, CFE</cite>
