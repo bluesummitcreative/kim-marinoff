@@ -4,7 +4,7 @@
 		the_content();
 	endwhile; endif;
 	
-	if( is_page('20') {
+	if( is_page('20')) {
 	   $catquery = new WP_Query( 'cat=3&posts_per_page=-1' ); ?>
 		<ol>
 		<?php while($catquery->have_posts()) : $catquery->the_post(); ?>
