@@ -9,12 +9,16 @@
 			<div class="range range-80">
 				<?php 
 					get_template_part('inc/loop');
-					
-					query_posts('cat=5'); 
-					if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-					   <li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
-					<?php endwhile; endif;
-					wp_reset_query();		
+				
+					$catquery = new WP_Query( 'cat=72&posts_per_page=5' ); ?>
+					<ul>
+						<?php while($catquery->have_posts()) : $catquery->the_post(); ?>
+
+					<li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
+					<?php endwhile; ?>
+					</ul>
+					<?php 
+					wp_reset_postdata();
 					get_sidebar();
 				?>
 			</div>
