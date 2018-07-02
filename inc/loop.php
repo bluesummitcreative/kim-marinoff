@@ -6,7 +6,7 @@
 	
 	if( is_page('20')) {
 	   $catquery = new WP_Query( 'cat=3&posts_per_page=-1' ); ?>
-		<ol>
+		<ol class="list-unstyled">
 		<?php while($catquery->have_posts()) : $catquery->the_post(); ?>
 
 		<li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
