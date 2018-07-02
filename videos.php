@@ -14,7 +14,6 @@
            'posts_per_page' => -1
              );
              $the_query = new WP_Query( $args );
-
              // The Loop
              if ( $the_query->have_posts() ) { ?>
              <ol>
@@ -25,7 +24,7 @@
                 } 
                 
                 </ol>
-             }
+             	<?php }
 					get_sidebar();
 				?>
 			</div>
