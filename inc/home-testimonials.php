@@ -7,7 +7,7 @@
           
           <div>
             <div class="quote-variant-1">
-              <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+              
               <div class="quote-body">
                 <p> <q>I  so  much  appreciate  your  time  and  effort  to  help  me  leave  the  daily  burden  of  a  9  to  5  job.</q> </p>
               </div>
@@ -18,7 +18,7 @@
             
             <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>With  extensive  knowledge  of  the  franchising  world,  Kim  has  what  it  takes  to  find  you  exactly  what  you're  looking  for  in  a  franchise.</q> </p>
 	  </div>
@@ -29,7 +29,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>With  Kim's  help  I  was  able  to  find  a  fantastic  franchise  opportunity  and  I  am  moving  forward  with  it.</q> </p>
 	  </div>
@@ -40,7 +40,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>If  you  want  a  competent,  empowering  franchise  advocate,  then  Kim  is  your  best  bet.</q> </p>
 	  </div>
@@ -51,7 +51,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>Kim  has  been  a  wealth  of  knowledge  and  support.  Her  experience  and  work  ethic  are  second  to  none.</q> </p>
 	  </div>
@@ -62,7 +62,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>I  recommend  Kim  for  anyone  looking  for  a  franchise  opportunity.</q> </p>
 	  </div>
@@ -73,7 +73,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>I  highly  recommend  Kim  to  anyone  looking  to  take  the  next  step  in  their  financial  future  with  business  ownership  -  whether  in  franchising  or  not.</q> </p>
 	  </div>
@@ -84,7 +84,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>I  highly  recommend  anyone  who  is  looking  for  a  true  professional  in  the  franchise  industry  to  contact  Kim.</q> </p>
 	  </div>
@@ -95,7 +95,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>I  highly  recommend  Kim  as  a  franchising  expert  and  consultant.</q> </p>
 	  </div>
@@ -106,7 +106,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>I  would  highly  recommend  Kim  to  anyone  considering  a  franchise  opportunity.</q> </p>
 	  </div>
@@ -117,7 +117,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>I  highly  recommend  Kim  to  anyone  searching  for  a  new  opportunity  as  I'm  confident  that  she  will  take  you  carefully  down  the  path  of  discovery.</q> </p>
 	  </div>
@@ -128,7 +128,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>Kim  is  a  great  listener  and  a  joy  to  work  with.  She  has  a  big  heart  and  loves  people.  She  is  passionate  about  helping  you  find  the  right  business.</q> </p>
 	  </div>
@@ -139,7 +139,7 @@
 
 <div>
 	<div class="quote-variant-1">
-	  <div class="quote-header"> <img src="/wp-content/themes/kim-marinoff/images/72x72.jpg" alt="" width="72" height="72"> </div>
+	  
 	  <div class="quote-body">
 		<p> <q>If  you  are  considering  owning  and  running  a  business  in  a  proven  or  growing  franchise  of  any  kind,  Kim  is  the  person  to  talk  to.</q> </p>
 	  </div>
