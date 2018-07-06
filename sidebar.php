@@ -3,7 +3,7 @@
 		<div class="widget">
 			<h3>Contact Kim</h3>
 			<p><a href="tel:+17208494934">(720) 849-4934</a></p>
-			<p><a href="mailto:info@kimmarinoff.com">info@kimmarinoff.com</a></p>
+			<p><a href="mailto:kim@a2bfranchiseconsulting.com">kim@a2bfranchiseconsulting.com</a></p>
 		</div>
 		<div class="widget">
 		  <h4 class="text-bold">Categories</h4>
