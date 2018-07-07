@@ -4,7 +4,7 @@
       <div class="swiper-slide" data-slide-bg="/wp-content/uploads/A2B-Header-1-2018-002.jpg">
         <div class="swiper-slide-caption">
           <section class="section-70">
-            <div class="shell text-center text-md-right">
+            <div class="shell text-center text-md-left">
               <h1 class="swiper-slide-title">Franchise Matchmaking Services</h1>
               <div class="group group-md"> <a class="button button-sm button-primary-filled veil reveal-sm-inline-block" href="/videos/">Learn More</a> <a class="button button-sm button-default" href="/services/">Our Services</a> </div>
             </div>
