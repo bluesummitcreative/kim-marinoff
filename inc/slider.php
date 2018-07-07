@@ -1,4 +1,4 @@
-<section  data-height="29.84%" class="swiper-container swiper-slider">
+<section data-min-height="500px" data-height="29.84%" class="swiper-container swiper-slider">
     <div class="swiper-wrapper">
 		<!--Start repeater here -->
       <div class="swiper-slide" data-slide-bg="/wp-content/uploads/A2B-Header-1-2018-002.jpg">
