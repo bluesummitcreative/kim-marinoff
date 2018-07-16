@@ -22,10 +22,10 @@
 		<div class="post-footer">
 		  <h5 class="text-medium">Share this post:</h5>
 		  <ul class="inline-list inline-list-sm pull-right">
-			<li> <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode(the_permalink()); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-facebook"></a> </li>
-			<li> <a target="_blank" href="https://twitter.com/intent/tweet?text=<?php the_title(); ?>&url=<?php echo urlencode(the_permalink()); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-twitter"></a> </li>
-			<li> <a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode(the_permalink()); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-google-plus"></a> </li>
-			<li> <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&<?php echo urlencode(the_permalink()); ?>=%23&title=<?php the_title(); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-linkedin"></a> </li>
+			<li> <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo urlencode(the_permalink()); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-facebook fa-2x"></a> </li>
+			<li> <a target="_blank" href="https://twitter.com/intent/tweet?text=<?php the_title(); ?>&url=<?php echo urlencode(the_permalink()); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-twitter fa-2x"></a> </li>
+			<li> <a target="_blank" href="https://plus.google.com/share?url=<?php echo urlencode(the_permalink()); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-google-plus-square fa-2x"></a> </li>
+			<li> <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&<?php echo urlencode(the_permalink()); ?>&title=<?php the_title(); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-linkedin fa-2x"></a> </li>
 		  </ul>
 		</div>
 	  </article>
