@@ -19,6 +19,7 @@
 		<div class="post-body">
 		  <?php the_content(); ?>
 		</div>
+					
 		<div class="post-footer">
 		  <h5 class="text-medium">Share this post:</h5>
 		  <ul class="inline-list inline-list-sm pull-right">
@@ -28,6 +29,9 @@
 			<li> <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=<?php echo urlencode(the_permalink()); ?>&title=<?php the_title(); ?>" class="icon icon-xxs-variant-1 icon-ship-gray fa-linkedin fa-2x"></a> </li>
 		  </ul>
 		</div>
+			
+		<?php comments_template(); ?>
+			
 	  </article>
 		<?php endwhile; endif; ?>
 	</section>
