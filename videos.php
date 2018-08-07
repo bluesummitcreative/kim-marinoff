@@ -10,7 +10,7 @@
 				<?php 
 					get_template_part('inc/loop');
 				
-					$catquery = new WP_Query( 'cat=3&posts_per_page=-1' ); ?>
+					$catquery = new WP_Query( 'cat=3&posts_per_page=-1&order=asc' ); ?>
 					<ul>
 						<?php while($catquery->have_posts()) : $catquery->the_post(); ?>
 
