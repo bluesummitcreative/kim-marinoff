@@ -5,9 +5,15 @@
 	endwhile; endif;
 	
 	if( is_page('20')) {
-	   $catquery = new WP_Query( 'cat=3&posts_per_page=-1' ); ?>
+	   $args = array(
+			'post_type'              => array( 'post' ),
+			'post_status'            => array( 'publish' ),
+			'order'                  => 'ASC',
+			'orderby'                => 'name',
+		);
+		$catquery = new WP_Query( $args ); ?>
 		<ol>
-		<?php while($catquery->have_posts()) : $catquery->the_post(); ?>
+			<?php while($catquery->have_posts()) : $catquery->the_post(); ?>
 
 		<li><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></li>
 		<?php endwhile; ?>
