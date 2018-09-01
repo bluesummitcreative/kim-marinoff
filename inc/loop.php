@@ -7,10 +7,10 @@
 	if( is_page('20')) {
 	   $args = array(
 			'cat'              => 87,
-		   	'post_type'              => array( 'post' ),
-			'post_status'            => array( 'publish' ),
-			'order'                  => 'ASC',
-			'orderby'                => 'name',
+		   	'post_type'        => array( 'post' ),
+			'post_status'      => array( 'publish' ),
+			'order'            => 'ASC',
+			'orderby'          => 'date',
 		);
 		$catquery = new WP_Query( $args ); ?>
 		<ol>
