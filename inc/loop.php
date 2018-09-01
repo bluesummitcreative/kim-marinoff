@@ -6,7 +6,8 @@
 	
 	if( is_page('20')) {
 	   $args = array(
-			'post_type'              => array( 'post' ),
+			'cat'              => 87,
+		   	'post_type'              => array( 'post' ),
 			'post_status'            => array( 'publish' ),
 			'order'                  => 'ASC',
 			'orderby'                => 'name',
