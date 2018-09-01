@@ -10,7 +10,7 @@
 		   	'post_type'        => array( 'post' ),
 			'post_status'      => array( 'publish' ),
 			'order'            => 'ASC',
-			'orderby'          => 'date',
+			'orderby'          => 'title',
 		);
 		$catquery = new WP_Query( $args ); ?>
 		<ol>
