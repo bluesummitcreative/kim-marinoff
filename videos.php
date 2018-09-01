@@ -13,7 +13,7 @@
 					$args = array(
 						'post_type'              => array( 'post' ),
 						'post_status'            => array( 'publish' ),
-						'order'                  => 'DESC',
+						'order'                  => 'ASC',
 						'orderby'                => 'date',
 					);
 
