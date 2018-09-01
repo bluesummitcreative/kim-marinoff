@@ -14,7 +14,7 @@
 						'post_type'              => array( 'post' ),
 						'post_status'            => array( 'publish' ),
 						'order'                  => 'ASC',
-						'orderby'                => 'title',
+						'orderby'                => 'name',
 					);
 
 
