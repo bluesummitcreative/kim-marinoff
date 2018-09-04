@@ -7,6 +7,15 @@
 		
 		add_theme_support( 'html5', array( 'search-form', 'comment-form', 'comment-list', 'gallery', 'caption' ) );
 		add_theme_support( 'title-tag' );
+
+		if ( ! function_exists( '_wp_render_title_tag' ) ) {
+			function theme_slug_render_title() {
+		?>
+		<title><?php wp_title( '|', true, 'right' ); ?></title>
+		<?php
+			}
+			add_action( 'wp_head', 'theme_slug_render_title' );
+		}
 		
 		}
 	add_action( 'after_setup_theme', 'bsc_after_theme_setup' );
