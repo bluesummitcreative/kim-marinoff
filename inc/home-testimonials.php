@@ -154,7 +154,7 @@
 	  <div class="quote-body">
 		<p> <q>I have always found Kim to have the highest integrity and always respectful of her clients’ needs, wants and desires.</q> </p>
 	  </div>
-	  <div class="quote-meta"> <cite>Desmond Hardy</cite>
+	  <div class="quote-meta"> <cite>Andrew Aronson</cite>
 	  </div>
 	</div>
 </div> 
