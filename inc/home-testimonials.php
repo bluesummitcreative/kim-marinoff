@@ -147,6 +147,17 @@
 	  </div>
 	</div>
 </div> 
+		
+<div>
+	<div class="quote-variant-1">
+	  
+	  <div class="quote-body">
+		<p> <q>I have always found Kim to have the highest integrity and always respectful of her clients’ needs, wants and desires.</q> </p>
+	  </div>
+	  <div class="quote-meta"> <cite>Desmond Hardy</cite>
+	  </div>
+	</div>
+</div> 
                      
         </div>
       </div>
